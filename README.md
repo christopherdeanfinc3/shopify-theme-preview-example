@@ -1,6 +1,8 @@
 # shopify-theme-preview-example
 
-This Project is an example for the usage of the [Shopify Theme Preview Action](https://github.com/Brand-Boosting-GmbH/shopify-theme-preview)
+This Project is an example for the usage of the [Shopify Theme Preview Action](https://github.com/Brand-Boosting-GmbH/shopify-theme-preview).
+
+To see this action in action, simply click on the open Pull Request and see for yourself!
 
 ### preview.yml
 
