@@ -27,7 +27,9 @@ jobs:
 For more detailed information follow these links:
 
 [GitHub Action]( https://github.com/Brand-Boosting-GmbH/shopify-theme-preview)
+
 [GitHub Marketplace](https://github.com/marketplace/actions/create-shopify-theme-preview)
+
 [brand-boosting.de]( https://brand-boosting.de/)
 
 ---
